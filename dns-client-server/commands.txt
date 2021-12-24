@@ -1,0 +1,17 @@
+python3 dnsclient.py -type=txt -rec=1 google.com
+
+python3 dnsclient.py -type=A www.google.com
+
+python3 dnsclient.py -type=CNAME www.youtube.com
+
+python3 dnsclient.py -type=A www.youtube.com
+
+python3 dnsclient.py -type=AAAA www.google.com
+
+python3 dnsclient.py -type=ns google.com
+
+python3 dnsclient.py -type=mx google.com
+
+python3 dnsclient.py -type=soa google.com
+
+python3 dnsclient.py -rec=1 www.shakthimaan.com

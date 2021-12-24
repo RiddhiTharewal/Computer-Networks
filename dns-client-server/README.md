@@ -23,3 +23,7 @@ $python3 dnssserver.py
 $bash test.sh 
 
 
+
+https://raw.githubusercontent.com/RiddhiTharewal/Computer-Networks/main/dns-client-server/output.png
+
+
